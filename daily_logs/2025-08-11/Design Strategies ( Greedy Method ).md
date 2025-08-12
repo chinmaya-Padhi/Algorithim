@@ -47,5 +47,6 @@ Procedure GREEDY_KNAPSACK(P, W, M, X, n)
             cu ← cu - W(i)
         endif
     endfor
-end Procedure
+end Procedure```
+---
 [GREEDY_KNAPSACK](GREEDY_KNAPSACK.c)
