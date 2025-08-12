@@ -1,7 +1,7 @@
 ## Optimal Merge Pattern (OMP)
 ### Problem stmt : (Merging of File)
 > Given a set of 'n' files (sorted) , it is req. to merge them into a single file , using 2 - way merging such that the no of record movement is minimum . 
-![gd1](../../image/omp.jpg)
+![gd1](../../image/omp1.jpg)
 
 ```
 record treenode {
