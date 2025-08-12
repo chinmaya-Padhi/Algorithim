@@ -48,3 +48,4 @@ Procedure GREEDY_KNAPSACK(P, W, M, X, n)
         endif
     endfor
 end Procedure
+[GREEDY_KNAPSACK](GREEDY_KNAPSACK.c)
