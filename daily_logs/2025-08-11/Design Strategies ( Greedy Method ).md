@@ -5,4 +5,8 @@
 ![gd1](../../image/gd1.jpg)
 
 ### Control Abstraction for greedy method
-![gd1](../../image/gd2.jpg)
+![gd2](../../image/gd2.jpg)
+
+### 1.Knapsack Problem
+![gd3](../../image/gd3.jpg)
+![gd4](../../image/gd4.jpg)
