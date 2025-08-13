@@ -12,6 +12,7 @@
       - worst case 'e' edges
 ![image](img3.jpg)
 
+- **Time: O (e log e)**
 ## 🌳 Kruskal's Algorithm (Heap-Based)
 
 ```pseudo
@@ -81,3 +82,6 @@ Algorithm Kruskal(E, cost, n):
 ```
 
 ---
+## PRIM'S AlGO [ Time : O(n^2) ]
+- u can strat with any point
+  
