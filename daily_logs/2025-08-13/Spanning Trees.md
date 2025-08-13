@@ -84,4 +84,4 @@ Algorithm Kruskal(E, cost, n):
 ---
 ## PRIM'S AlGO [ Time : O(n^2) ]
 - u can strat with any point
-  
+  ![image](img4.jpg)
