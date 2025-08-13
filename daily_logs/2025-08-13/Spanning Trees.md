@@ -10,4 +10,4 @@
 - Take one by one edges add in spanning tree ( cycle should not be created )
       - Best case (n-1) edges
       - worst case 'e' edges
-![image](img3(2).jpg)
+![image](img3.jpg)
