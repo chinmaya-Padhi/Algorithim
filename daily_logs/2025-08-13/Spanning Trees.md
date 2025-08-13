@@ -48,10 +48,6 @@ Algorithm Kruskal(E, cost, n):
     else:
         return mincost
 
-
-
----
-
 ## Explanation
 
 **Step 1 – Heapify Edges**  
@@ -81,7 +77,7 @@ Algorithm Kruskal(E, cost, n):
 **Step 7 – End Condition**  
 - If fewer than `n-1` edges were added, the graph is disconnected.
 - Otherwise, return the total `mincost`.
+```pseudo
+
 
 ---
-
-
